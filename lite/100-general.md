@@ -34,29 +34,32 @@ There are generally a few different levels of difficulty used:
 
 ### Advantage/Disadvantage Rolls.
 
-* if the dice pool rolled is at Advantage, ignore any dice that come up as "1" and roll them again.
+When a dice pool is rolled at advantage or disadvantage the following steps are taken:
 
-* if the dice pool rolled is at Disadvantage, ignore any dice that come up as "6" and roll them again.
+* If the roll is at advantage, any dice that show a result of 1 will be rolled again and ignored, then add the second roll.
 
-Multiple levels of Advantage and Disadvantage cancel each other out, until only Advantage, Disadvantage or none remain.
+* If the roll is at disadvantage, any dice that show a result of 6 will be rolled again and ignored, then add the second roll.
+
+If multiple levels of advantage or disadvantage apply, they will cancel each other out until only one advantage, disadvantage, or none remains.
+
+> For example, if a character has advantage and disadvantage on a roll at the same time. 
+> The final roll will be made without any level of advantage or disadvantage.
 
 ### Target Number and Penalty Dice
 
-* if there is a TN subtract it from the Roll Result to give the Final Result.
+To determine the final result of a roll, the following steps are taken:
 
-* if there are Penalty Dice roll them and subtract the sum from the Roll Result to give the Final Result.
+* If there is a target number (TN), subtract it from the roll result to obtain the final result.
 
+* If there are penalty dice, roll them and subtract the sum from the roll result to obtain the final result.
 
 ### Success Level
 
-The success level is established by dividing the Final Result by 5 rounded down.
+The success level is calculated by taking the final result of the roll and dividing it by 5, then rounding down.
 
 
 ### Taking the Average (ie. Defaulting)
 
-A character can "default" on the dice roll (ie. not require to roll it), if she has at least the 
-amount of dice correcponding to the Target Number (reference "TN" vs "D" columns).
+Characters have the option to "default" on a dice roll if they have enough dice in their pool to automatically meet or exceed the target number (reference "TN" vs "D" columns) without rolling.
 
-Any penalty dice need to be subtracted from the dice pool before defaulting can be considered.
-
-A character cannot "default" on the dice roll, if the roll is at Disadvantage.
+To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
