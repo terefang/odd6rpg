@@ -22,15 +22,15 @@ There are generally a few different levels of difficulty used:
 
 * Heroic – Tasks that are almost impossible to accomplish without extraordinary skill, effort, or experience, such as lifting a car, defying gravity, or performing a dangerous stunt.
 
-| Difficulty  | D    | DC   | TN   | TX   | TY   | TZ    |
-|:------------|:----:|:----:|:----:|:----:|:----:|:-----:|
-| Automatic   | 0     | 0     | 0     |  0    | 0    |  0   |
-| Easy        | 2     | 1     | 5     |  4    | 3    |  3   |
-| Moderate    | 4     | 2     | 10    |  8    | 6    |  5   |
-| Difficult   | 6     | 3     | 15    |  12   | 9    |  8   |
-| Hard        | 8     | 4     | 20    |  16   | 12   |  10  |
-| Heroic      | 10    | 5     | 25    |  20   | 15   |  13  |
-| Epic        | 12    | 6     | 30    |  24   | 18   |  15  |
+| Difficulty  |  D    |  DC   |  TN   |  TX   | TY    | TZ    |
+|:------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Automatic   | 0     | 0     | 0     |  0    |  0    |   0   |
+| Easy        | 2     | 1     | 5     |  4    |  3    |   3   |
+| Moderate    | 4     | 2     | 10    |  8    |  6    |   5   |
+| Difficult   | 6     | 3     | 15    |  12   |  9    |   8   |
+| Hard        | 8     | 4     | 20    |  16   |  12   |   10  |
+| Heroic      | 10    | 5     | 25    |  20   |  15   |   13  |
+| Epic        | 12    | 6     | 30    |  24   |  18   |   15  |
 
 ### Advantage/Disadvantage Rolls.
 
@@ -56,7 +56,6 @@ To determine the final result of a roll, the following steps are taken:
 ### Success Level
 
 The success level is calculated by taking the final result of the roll and dividing it by 5, then rounding down.
-
 
 ### Taking the Average (ie. Defaulting)
 
