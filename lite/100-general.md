@@ -62,3 +62,41 @@ The success level is calculated by taking the final result of the roll and divid
 Characters have the option to "default" on a dice roll if they have enough dice in their pool to automatically meet or exceed the target number (reference "TN" vs "D" columns) without rolling.
 
 To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
+
+#### Movement
+
+The "Move" attribute represents a character's speed and mobility, and is used to determine how far 
+they can move in a round of combat or how quickly they can cover distance. 
+
+Each 1 point of Move represents 1 pace (or 5 feet) of non-combat movement when making a full move action.
+
+Movement variations reflects different speeds of movement, or different ways in which a character can move.
+
+* Creep – This is used for slow, stealthy movement, and is typically used for sneaking or crawling.
+
+* Combat – This is used for quick and precise movements in combat, such as dodging or closing in on an enemy.
+
+* Walk – This is the standard pace for most characters and is used for normal, non-combative movement.
+
+* Brisk – This is a faster pace than walking, but not as fast as a run. 
+It can be used for when a character needs to cover ground quickly without drawing attention to themselves.
+
+* Jog – This is a moderate-speed run, used for covering moderate distances quickly.
+
+* Run – This is used for covering long distances quickly, it can be used to outrun an enemy or 
+to quickly reach a specific location.
+
+* Sprint – This is used for short, fast bursts of movement, typically used for fleeing or chasing.
+
+* Dash – This is used for very short and sudden bursts of movement, beyond even sprinting.
+
+| Movement          | Speed | Typical Difficulty | In-Combat Difficulty |
+|:------------------|:-----:|:---------------------|:---------------------|
+|  Creep or Combat  | ×0.5  | Easy      | Moderate |
+|  Walk             | ×1    | Automatic | Easy |
+|  Brisk            | ×3/2  | Easy      | Moderate |
+|  Jog              | ×2    | Moderate  | Difficult |
+|  Run              | ×3    | Difficult | Hard |
+|  Sprint           | ×4    | Hard      | Heroic |
+|  Dash             | ×5    | Heroic    | Epic |
+
