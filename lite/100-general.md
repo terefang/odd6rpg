@@ -63,6 +63,22 @@ Characters have the option to "default" on a dice roll if they have enough dice 
 
 To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
 
+#### Sizes
+
+| Size       |Modifier |Size Min|Size Max|Wgt Min|Wgt Max| Comment      |
+|-----------:|:-------:|:------:|:------:|:-----:|:-----:|:--------------------------|
+| Minuscle   |  ±5     |    –   |   3in  |   –   |  4dr  |       |
+| Fine       |  ±4     |   3in  |   6in  | 4dr   |  2oz  |       |
+| Diminutive |  ±3     |   6in  |   1ft  | 2oz   |  1lb  |       |
+| Tiny       |  ±2     |   1ft  |   2ft  | 1lb   |  8lb  |       |
+| Small      |  ±1     |   2ft  |   4ft  |  8lb  | 64lb  |       |
+| Medium     |  ±0     |   4ft  |   8ft  | 64lb  | 512lb | standard size for humans. |
+| Large      |  ±1     |   8ft  |  16ft  | 512lb | 4klb  |       |
+| Huge       |  ±2     |  16ft  |  32ft  | 4klb  | 32klb |       |
+| Gargantuan |  ±3     |  32ft  |  64ft  | 32klb | 256klb|       |
+| Colossal   |  ±4     |  64ft  |  128ft | 256klb| 2Mlb  |       |
+| Titanic    |  ±5     |  128ft |    –   | 2Mlb  |   –   |       |
+
 #### Movement
 
 The "Move" attribute represents a character's speed and mobility, and is used to determine how far 

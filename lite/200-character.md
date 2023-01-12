@@ -98,21 +98,100 @@ important for gameplay and determining success in certain actions.
 
 When calculating Defense always round down.
 
-#### Sizes
+## Character Backgrounds
 
-| Size       |Modifier |Size Min|Size Max|Wgt Min|Wgt Max| Comment      |
-|-----------:|:-------:|:------:|:------:|:-----:|:-----:|:--------------------------|
-| Minuscle   |  ±5     |    –   |   3in  |   –   |  4dr  |       |
-| Fine       |  ±4     |   3in  |   6in  | 4dr   |  2oz  |       |
-| Diminutive |  ±3     |   6in  |   1ft  | 2oz   |  1lb  |       |
-| Tiny       |  ±2     |   1ft  |   2ft  | 1lb   |  8lb  |       |
-| Small      |  ±1     |   2ft  |   4ft  |  8lb  | 64lb  |       |
-| Medium     |  ±0     |   4ft  |   8ft  | 64lb  | 512lb | standard size for humans. |
-| Large      |  ±1     |   8ft  |  16ft  | 512lb | 4klb  |       |
-| Huge       |  ±2     |  16ft  |  32ft  | 4klb  | 32klb |       |
-| Gargantuan |  ±3     |  32ft  |  64ft  | 32klb | 256klb|       |
-| Colossal   |  ±4     |  64ft  |  128ft | 256klb| 2Mlb  |       |
-| Titanic    |  ±5     |  128ft |    –   | 2Mlb  |   –   |       |
+A character's background refers to the backstory and history of the character that defines who they are and where they come from. This can include a variety of elements and can shape a character's personality, motivations, and abilities.
+
+### Ancestries
+
+This refers to the character's race or species, it can define the character's physical characteristics, abilities, and potential social status. 
+
+> For example, a character's ancestry might be human, elf, dwarf, or goblin.
+
+#### Generic/Human
+
+The human ancestry is the most common and widespread of all the races, and is characterized by its versatility and adaptability.
+
+Humans are typically described as being physically similar to real-world humans, with the standard range of body types, skin colors, and facial features. They are depicted as being average in terms of physical strength and endurance, but they are known for their intelligence, creativity, and determination.
+
+* receive two attribute raises freely choosen by the player.
+
+* receive one skill raise freely choosen by the player.
+
+* receive fluency in their native language.
+
+### Lineage
+
+This refers to the character's bloodline or family line, it can define the character's place within their family and any special abilities or traits that they might have inherited. 
+
+> For example, a character's lineage might be royal, or they might be the descendant of a powerful sorcerer.
+
+### Heritage
+
+This refers to the character's family background and upbringing, it can define the character's upbringing and family history, and can influence their personality and motivations. 
+
+> For example, a character's heritage might be noble, peasant, or orphan.
+
+### Culture
+
+This refers to the character's cultural background, it can define the character's customs, beliefs, and way of life. 
+
+> For example, a character's culture might be that of a medieval European feudal society, 
+> or it might be that of a tribe of nomadic barbarians.
+
+## Archetypes
+
+A character archetype refers to a specific role or set of abilities that a character is built around.
+These archetypes are used as a framework for creating a character, and used to define the character's 
+strengths and weaknesses.
+
+### Warrior
+
+This archetype represents a character who is skilled in combat and physical activities. 
+They should have high scores physical attributes, and may have specialized skills in weapons or hand-to-hand combat.
+Warriors are typically strong and brave, and are often found on the front lines of battle.
+
+### Adept
+
+This archetype represents a character who is skilled in magic or other supernatural abilities. 
+They should have high scores in mental attributes, and may have specialized skills in spellcasting or other supernatural abilities. 
+Adepts are typically wise and powerful, and are often found in support roles, using their abilities to aid their allies.
+
+### Expert
+
+This archetype represents a character who is skilled in a specific area of knowledge or expertise. 
+They may have high scores in a broad range of attributes, and have specialized skills in a specific area of expertise, 
+such as engineering, medicine, or law. 
+Experts are typically intelligent and knowledgeable, and are often found in support roles, 
+using their expertise to aid their allies.
+
+## Occupations
+
+An occupation refers to a character's profession or chosen career. Occupation can reflect the character's background, skills, and experiences. It can also provide a character with certain abilities, knowledge, or equipment that is appropriate to the occupation.
+
+### Soldier
+
+This occupation represents someone who has been trained in combat, weapons, and tactics. They have specialized skills in firearms, heavy weapons, or hand-to-hand combat. They also have access to military equipment and have a strong sense of discipline and loyalty.
+
+### Savant
+
+This occupation represents someone who has excelled in a specific field of study or knowledge. They have specialized skills in mathematics, science, art, or history. They also have access to specialized libraries or resources, and be able to provide valuable information or insights.
+
+### Merchant
+
+This occupation represents someone who is involved in trade and commerce. They have specialized skills in negotiation, accounting, or appraisal. They also have access to trade routes, business connections and financial resources.
+
+### Criminal
+
+This occupation represents someone who has a background in illegal activities, they have specialized skills in stealth, deception or lockpicking. They also have access to illegal goods, weapons or information.
+
+### Priest
+
+This occupation represents someone who is dedicated to a specific faith or religion. They have specialized skills in theology, rituals or healing. They also have access to divine powers or blessings, and be able to provide spiritual guidance and support.
+
+### Sorcerer
+
+This occupation represents someone who has studied and gained knowledge in the arcane arts. They have specialized skills in spellcasting, divination or alchemy. They may also have access to powerful magic and arcane knowledge.
 
 ## Creating a Character
 
