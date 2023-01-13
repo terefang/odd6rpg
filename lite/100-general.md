@@ -71,7 +71,7 @@ To be able to default on a roll, a character's dice pool must have at least the 
 
 ## Improving Rolls
 
-Characters have access to special points called Fate Points and Resources in addition to their attribute and skill scores. These points can be spent to gain an advantage or achieve success in particularly challenging or heroic situations.
+Characters have access to special points called Karma and Resources in addition to their attribute and skill scores. These points can be spent to gain an advantage or achieve success in particularly challenging or heroic situations.
 
 ### Resources
 
