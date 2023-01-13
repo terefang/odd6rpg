@@ -69,6 +69,20 @@ Characters have the option to "default" on a dice roll if they have enough dice 
 
 To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
 
+## Improving Rolls
+
+Characters have access to special points called Fate Points and Resources in addition to their attribute and skill scores. These points can be spent to gain an advantage or achieve success in particularly challenging or heroic situations.
+
+### Resources
+
+Resources can be spent to gain an advantage in task resolution by adding an extra die to the roll. These resources can also be spent after a roll has been made to attempt to improve the result.
+
+### Karma Points
+
+Karma can be spent by a character to focus their efforts on a specific task. This can only be done before any dice rolls are made and doubles the number of dice the character would normally roll for that round and action, allowing the character to perform that action to the best of their ability. 
+
+The GM may permit more Karma to be spent in particularly challenging situations.
+
 ## Sizes
 
 | Size       |Modifier |Size Min|Size Max|Wgt Min|Wgt Max| Comment      |
