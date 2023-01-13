@@ -1,12 +1,18 @@
 # General Rules
 
+The system uses die codes to represent a character's proficiency in certain areas, the effectiveness of
+weapons, and the usefulness of equipment. These codes, represented by a number of six-sided dice, are 
+used in rolling to determine success or failure in actions and mechanics within the game. The higher 
+the die code, the better skilled or equipped the character is in that area. The core mechanics of the 
+game revolves around these rolls.
+
 ## Dice Rolls
 
 Skill rolls are determined by rolling a set of dice that includes a combination of attribute and skill dice. The number of dice in the pool depends on the attribute and skill ratings of the character, and the roll is modified by any relevant bonuses or penalties. The total of the roll will determine the success or failure of the action.
 
-Characters use a pool of dice that consist of the attribute die and skill die. The number of dice in this pool is determined by the character's attribute and skill ratings, and any bonuses or penalties that apply to the roll. The outcome of this roll will be the final result of the action's success or failure.
+A dice pool is expressed as a combination of dice codes and pips. The dice code indicates the number of six-sided dice that are rolled when attempting an action, such as 1d, 2d, 3d, 4d, 5d, etc. Pips, represented by "+1" or "+2," are added to the total result of the dice roll.
 
-### Difficulty Levels
+## Difficulty Levels
 
 Difficulty levels are used to determine the degree of difficulty of a task or action that a character attempts. The GM will determine the difficulty level of a task based on a variety of factors, such as the character's skill level, the complexity of the task, and any external factors that may affect the task.
 
@@ -32,7 +38,7 @@ There are generally a few different levels of difficulty used:
 | Heroic      | 10    | 5     | 25    |  20   |  15   |   13  |
 | Epic        | 12    | 6     | 30    |  24   |  18   |   15  |
 
-### Advantage/Disadvantage Rolls.
+## Advantage/Disadvantage Rolls.
 
 When a dice pool is rolled at advantage or disadvantage the following steps are taken:
 
@@ -45,7 +51,7 @@ If multiple levels of advantage or disadvantage apply, they will cancel each oth
 > For example, if a character has advantage and disadvantage on a roll at the same time. 
 > The final roll will be made without any level of advantage or disadvantage.
 
-### Target Number and Penalty Dice
+## Target Number and Penalty Dice
 
 To determine the final result of a roll, the following steps are taken:
 
@@ -53,17 +59,17 @@ To determine the final result of a roll, the following steps are taken:
 
 * If there are penalty dice, roll them and subtract the sum from the roll result to obtain the final result.
 
-### Success Level
+## Success Level
 
 The success level is calculated by taking the final result of the roll and dividing it by 5, then rounding down.
 
-### Taking the Average (ie. Defaulting)
+## Taking the Average (ie. Defaulting)
 
 Characters have the option to "default" on a dice roll if they have enough dice in their pool to automatically meet or exceed the target number (reference "TN" vs "D" columns) without rolling.
 
 To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
 
-#### Sizes
+## Sizes
 
 | Size       |Modifier |Size Min|Size Max|Wgt Min|Wgt Max| Comment      |
 |-----------:|:-------:|:------:|:------:|:-----:|:-----:|:--------------------------|
@@ -79,7 +85,7 @@ To be able to default on a roll, a character's dice pool must have at least the 
 | Colossal   |  ±4     |  64ft  |  128ft | 256klb| 2Mlb  |       |
 | Titanic    |  ±5     |  128ft |    –   | 2Mlb  |   –   |       |
 
-#### Movement
+## Movement
 
 The "Move" attribute represents a character's speed and mobility, and is used to determine how far 
 they can move in a round of combat or how quickly they can cover distance. 
@@ -115,4 +121,3 @@ to quickly reach a specific location.
 |  Run              | ×3    | Difficult | Hard |
 |  Sprint           | ×4    | Hard      | Heroic |
 |  Dash             | ×5    | Heroic    | Epic |
-

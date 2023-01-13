@@ -60,7 +60,25 @@ reference point to determine how a character might react or behave in certain si
 
 When calculating Passive Attributes always round up.
 
-### Levels/Thresholds Tracks
+### Secondary Attributes
+
+Secondary attributes are additional attributes that are used to represent a character's active physical or 
+mechanical abilities. These attributes may not be as central to a character's concept or role, but still are 
+important for gameplay and determining success in certain actions.
+
+* Size (SIZ) – Represents a character's physical size, which can affect things like their reach in combat and their ability to fit into small spaces.
+
+* Move (MOV = PHY + AGL) – Represents a character's speed and mobility, it can be used to determine how far a character can move in a round of combat or how quickly they can cover distance in the game world.
+
+* Perception (PER = RE + AL) – Represents a character's ability to perceive their environment and any potential threats or opportunities, in a more general sense than the awareness attribute, it can affect a character's ability to spot hidden objects or notice subtle changes in their environment. (aka Conflict Perception)
+
+* Initiative (INI = RE + AWA) – Represents a character's ability to react quickly and make the first move in combat, It can be used to determine the order of turns in combat and who goes first.
+
+* Defense (DEF = PER ÷ 2) – Represents a character's ability to evade or block incoming attacks, it can be used to determine how well a character can dodge, block or parry a blow in combat
+
+When calculating Defense always round down.
+
+### Resource/Threshold Tracks
 
 Player characters (PCs) have resources that represent the character's physical and mental well-being. 
 These resources can be affected by the character's actions and the events of the game, and can have a 
@@ -79,24 +97,6 @@ less effective in social interactions or problem-solving tasks.
 
 * Doubt – Represents a character's ability to trust and rely on their own abilities. Characters who 
 suffer from doubt may suffer penalties to their rolls and become less effective in decision making.
-
-### Secondary Attributes
-
-Secondary attributes are additional attributes that are used to represent a character's active physical or 
-mechanical abilities. These attributes may not be as central to a character's concept or role, but still are 
-important for gameplay and determining success in certain actions.
-
-* Size (SIZ) – Represents a character's physical size, which can affect things like their reach in combat and their ability to fit into small spaces.
-
-* Move (MOV = PHY + AGL) – Represents a character's speed and mobility, it can be used to determine how far a character can move in a round of combat or how quickly they can cover distance in the game world.
-
-* Perception (PER = RE + AL) – Represents a character's ability to perceive their environment and any potential threats or opportunities, in a more general sense than the awareness attribute, it can affect a character's ability to spot hidden objects or notice subtle changes in their environment. (aka Conflict Perception)
-
-* Initiative (INI = RE + AWA) – Represents a character's ability to react quickly and make the first move in combat, It can be used to determine the order of turns in combat and who goes first.
-
-* Defense (DEF = PER ÷ 2) – Represents a character's ability to evade or block incoming attacks, it can be used to determine how well a character can dodge, block or parry a blow in combat
-
-When calculating Defense always round down.
 
 ## Character Backgrounds
 
@@ -192,6 +192,84 @@ This occupation represents someone who is dedicated to a specific faith or relig
 ### Sorcerer
 
 This occupation represents someone who has studied and gained knowledge in the arcane arts. They have specialized skills in spellcasting, divination or alchemy. They may also have access to powerful magic and arcane knowledge.
+
+## Skills
+
+### Basic Skills
+
+Basic skills represent a character's proficiency in a broad range of abilities and knowledge that are useful in everyday life. These skills can provide characters with specialized knowledge, abilities, or resources that can be useful in most basic situations.
+
+* Animals Ken – This skill represents a character's proficiency in dealing with animals, including training, riding and caring for them.
+
+* Athletics – This skill represents a character's proficiency in physical activities such as running, jumping, swimming, and climbing.
+
+* Crafting – This skill represents a character's proficiency in creating and repairing items such as weapons, armor, and tools.
+
+* Deception – This skill represents a character's proficiency in lying, hiding the truth and disguising oneself.
+
+* Finesse – This skill represents a character's proficiency in using small, precise tools such as lockpicks, needles, and artist's tools.
+
+* Healing – This skill represents a character's proficiency in treating injuries and illnesses, and restoring health.
+
+* Horsemanship – This skill represents a character's proficiency in riding, training and caring for horses.
+
+* Investigation – This skill represents a character's proficiency in gathering information, tracking down leads, and uncovering secrets.
+
+* Larceny – This skill represents a character's proficiency in thievery, pickpocketing, and other illegal means of acquiring money or goods.
+
+* Leadership – This skill represents a character's proficiency in inspiring and directing others, and making quick decisions.
+
+* Observation – This skill represents a character's proficiency in noticing details, patterns and spotting potential dangers.
+
+* Performance – This skill represents a character's proficiency in entertaining others through singing, dancing, acting, or storytelling.
+
+* Persuasion – This skill represents a character's proficiency in convincing others to see things their way through reasoning or charm.
+
+* Socialize – This skill represents a character's proficiency in interacting with others, including communication, persuasion, and negotiation.
+
+* Stealth – This skill represents a character's proficiency in avoiding detection, including sneaking, hiding, and disguise.
+
+* Streetwise – This skill represents a character's proficiency in understanding and navigating the criminal underworld or the urban environment.
+
+* Subterfuge – This skill represents a character's proficiency in deception and trickery, including lying, disguising, and misdirection.
+
+* Survival – This skill represents a character's proficiency in surviving in wild or inhospitable environments, including finding food and shelter, and navigating the wilderness.
+
+* Trade – This skill represents a character's proficiency in buying and selling goods, including negotiation, appraisal, and accounting.
+
+### Weapon Skills
+
+Weapon skills represent a character's proficiency in using a specific type of weapon. Each skill corresponds to a particular category of weapons, and different levels of proficiency can be achieved. Some examples of weapon skills that might be used in the open D6 system are:
+
+* Archery – This skill represents the character's ability to use bows and other ranged weapons, such as crossbows, with more accuracy and power.
+
+* Axes – This skill represents the character's proficiency in using axes and hafted weapons, such as battle-axes or hatchets, with more speed and accuracy.
+
+* Bludgeons – This skill represents the character's proficiency in using blunt weapons, such as maces, hammers, and clubs, with more power and ability to bypass armor or shields.
+
+* Blades – This skill represents the character's proficiency in using swords, knives and other cutting weapons with more speed, precision and accuracy.
+
+* Brawling – This skill represents the character's proficiency in using fists and other unarmed combat techniques with more power and ability to avoid or parry strikes.
+
+* Staves – This skill represents the character's proficiency in using staffs, poles, and other long weapons with more speed, precision, and accuracy.
+
+* Thrown – This skill represents the character's proficiency in throwing different objects, such as knives, spears, and throwing axes with more accuracy, power, and range.
+
+### Specific Skills & Knowledges
+
+Advanced skills represent a character's proficiency in a specific field of knowledge or expertise that goes beyond the general abilities represented by basic skills.
+
+* Academics – This skill represents a character's proficiency in academic fields of study, such as mathematics, science, history, or literature. 
+
+* Education – This skill represents a character's exposure to basic scholarship and teaching, the ability to read and write, as well as basic math and algebra. 
+
+* Law – This skill represents a character's proficiency in legal matters, such as laws, regulations, and court procedures. 
+
+* Politics – This skill represents a character's proficiency in political matters, such as government, diplomacy, and public relations. 
+
+* Religion – This skill represents a character's proficiency in religious matters, such as theology, doctrine, and rituals. 
+
+* Stewardship – This skill represents a character's proficiency in managing resources and assets, such as land, goods, and money. 
 
 ## Creating a Character
 
