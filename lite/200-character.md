@@ -106,8 +106,6 @@ A character's background refers to the backstory and history of the character th
 
 This refers to the character's race or species, it can define the character's physical characteristics, abilities, and potential social status. 
 
-> For example, a character's ancestry might be human, elf, dwarf, or goblin.
-
 #### Generic/Human
 
 The human ancestry is the most common and widespread of all the races, and is characterized by its versatility and adaptability.
@@ -124,20 +122,13 @@ Humans are typically described as being physically similar to real-world humans,
 
 This refers to the character's bloodline or family line, it can define the character's place within their family and any special abilities or traits that they might have inherited. 
 
-> For example, a character's lineage might be royal, or they might be the descendant of a powerful sorcerer.
-
 ### Heritage
 
 This refers to the character's family background and upbringing, it can define the character's upbringing and family history, and can influence their personality and motivations. 
 
-> For example, a character's heritage might be noble, peasant, or orphan.
-
 ### Culture
 
 This refers to the character's cultural background, it can define the character's customs, beliefs, and way of life. 
-
-> For example, a character's culture might be that of a medieval European feudal society, 
-> or it might be that of a tribe of nomadic barbarians.
 
 ## Archetypes
 
@@ -149,21 +140,16 @@ strengths and weaknesses.
 
 This archetype represents a character who is skilled in combat and physical activities. 
 They should have high scores physical attributes, and may have specialized skills in weapons or hand-to-hand combat.
-Warriors are typically strong and brave, and are often found on the front lines of battle.
 
 ### Adept
 
 This archetype represents a character who is skilled in magic or other supernatural abilities. 
 They should have high scores in mental attributes, and may have specialized skills in spellcasting or other supernatural abilities. 
-Adepts are typically wise and powerful, and are often found in support roles, using their abilities to aid their allies.
 
 ### Expert
 
 This archetype represents a character who is skilled in a specific area of knowledge or expertise. 
-They may have high scores in a broad range of attributes, and have specialized skills in a specific area of expertise, 
-such as engineering, medicine, or law. 
-Experts are typically intelligent and knowledgeable, and are often found in support roles, 
-using their expertise to aid their allies.
+They may have high scores in a broad range of attributes, and have specialized skills in a specific area of expertise, such as engineering, medicine, or law. 
 
 ## Occupations
 
@@ -199,77 +185,87 @@ This occupation represents someone who has studied and gained knowledge in the a
 
 Basic skills represent a character's proficiency in a broad range of abilities and knowledge that are useful in everyday life. These skills can provide characters with specialized knowledge, abilities, or resources that can be useful in most basic situations.
 
-* Animals Ken – This skill represents a character's proficiency in dealing with animals, including training, riding and caring for them.
+Characters can attempt to use basic skills without prior training or experience.
 
-* Athletics – This skill represents a character's proficiency in physical activities such as running, jumping, swimming, and climbing.
+* Animals Ken – This skill represents proficiency in dealing with animals, including training, riding and caring for them.
 
-* Crafting – This skill represents a character's proficiency in creating and repairing items such as weapons, armor, and tools.
+* Athletics – This skill represents proficiency in physical activities such as running, jumping, swimming, and climbing.
 
-* Deception – This skill represents a character's proficiency in lying, hiding the truth and disguising oneself.
+* Crafting – This skill represents proficiency in creating and repairing items such as weapons, armor, and tools.
 
-* Finesse – This skill represents a character's proficiency in using small, precise tools such as lockpicks, needles, and artist's tools.
+* Deception – This skill represents proficiency in lying, hiding the truth and disguising oneself.
 
-* Healing – This skill represents a character's proficiency in treating injuries and illnesses, and restoring health.
+* Finesse – This skill represents proficiency in using small, precise tools such as lockpicks, needles, and artist's tools.
 
-* Horsemanship – This skill represents a character's proficiency in riding, training and caring for horses.
+* Healing – This skill represents proficiency in treating injuries and illnesses, and restoring health.
 
-* Investigation – This skill represents a character's proficiency in gathering information, tracking down leads, and uncovering secrets.
+* Horsemanship – This skill represents proficiency in riding, training and caring for horses.
 
-* Larceny – This skill represents a character's proficiency in thievery, pickpocketing, and other illegal means of acquiring money or goods.
+* Investigation – This skill represents proficiency in gathering information, tracking down leads, and uncovering secrets.
 
-* Leadership – This skill represents a character's proficiency in inspiring and directing others, and making quick decisions.
+* Larceny – This skill represents proficiency in thievery, pickpocketing, and other illegal means of acquiring money or goods.
 
-* Observation – This skill represents a character's proficiency in noticing details, patterns and spotting potential dangers.
+* Leadership – This skill represents proficiency in inspiring and directing others, and making quick decisions.
 
-* Performance – This skill represents a character's proficiency in entertaining others through singing, dancing, acting, or storytelling.
+* Observation – This skill represents proficiency in noticing details, patterns and spotting potential dangers.
 
-* Persuasion – This skill represents a character's proficiency in convincing others to see things their way through reasoning or charm.
+* Performance – This skill represents proficiency in entertaining others through singing, dancing, acting, or storytelling.
 
-* Socialize – This skill represents a character's proficiency in interacting with others, including communication, persuasion, and negotiation.
+* Persuasion – This skill represents proficiency in convincing others to see things their way through reasoning or charm.
 
-* Stealth – This skill represents a character's proficiency in avoiding detection, including sneaking, hiding, and disguise.
+* Socialize – This skill represents proficiency in interacting with others, including communication, persuasion, and negotiation.
 
-* Streetwise – This skill represents a character's proficiency in understanding and navigating the criminal underworld or the urban environment.
+* Stealth – This skill represents proficiency in avoiding detection, including sneaking, hiding, and disguise.
 
-* Subterfuge – This skill represents a character's proficiency in deception and trickery, including lying, disguising, and misdirection.
+* Streetwise – This skill represents proficiency in understanding and navigating the criminal underworld or the urban environment.
 
-* Survival – This skill represents a character's proficiency in surviving in wild or inhospitable environments, including finding food and shelter, and navigating the wilderness.
+* Subterfuge – This skill represents proficiency in deception and trickery, including lying, disguising, and misdirection.
 
-* Trade – This skill represents a character's proficiency in buying and selling goods, including negotiation, appraisal, and accounting.
+* Survival – This skill represents proficiency in surviving in wild or inhospitable environments, including finding food and shelter, and navigating the wilderness.
+
+* Trade – This skill represents proficiency in buying and selling goods, including negotiation, appraisal, and accounting.
 
 ### Weapon Skills
 
-Weapon skills represent a character's proficiency in using a specific type of weapon. Each skill corresponds to a particular category of weapons, and different levels of proficiency can be achieved. Some examples of weapon skills that might be used in the open D6 system are:
+Weapon skills represent a character's proficiency in using a specific type of weapon. Each skill corresponds to a particular category of weapons, and different levels of proficiency can be achieved.
+
+Without training, characters can still use weapon skills but with Disadvantage.
 
 * Archery – This skill represents the character's ability to use bows and other ranged weapons, such as crossbows, with more accuracy and power.
 
-* Axes – This skill represents the character's proficiency in using axes and hafted weapons, such as battle-axes or hatchets, with more speed and accuracy.
+* Axes – This skill represents proficiency in using axes and hafted weapons, such as battle-axes or hatchets, with more speed and accuracy.
 
-* Bludgeons – This skill represents the character's proficiency in using blunt weapons, such as maces, hammers, and clubs, with more power and ability to bypass armor or shields.
+* Bludgeons – This skill represents proficiency in using blunt weapons, such as maces, hammers, and clubs, with more power and ability to bypass armor or shields.
 
-* Blades – This skill represents the character's proficiency in using swords, knives and other cutting weapons with more speed, precision and accuracy.
+* Blades – This skill represents proficiency in using swords, knives and other cutting weapons with more speed, precision and accuracy.
 
-* Brawling – This skill represents the character's proficiency in using fists and other unarmed combat techniques with more power and ability to avoid or parry strikes.
+* Brawling – This skill represents proficiency in using fists and other unarmed combat techniques with more power and ability to avoid or parry strikes.
 
-* Staves – This skill represents the character's proficiency in using staffs, poles, and other long weapons with more speed, precision, and accuracy.
+* Staves – This skill represents proficiency in using staffs, poles, and other long weapons with more speed, precision, and accuracy.
 
-* Thrown – This skill represents the character's proficiency in throwing different objects, such as knives, spears, and throwing axes with more accuracy, power, and range.
+* Thrown – This skill represents proficiency in throwing different objects, such as knives, spears, and throwing axes with more accuracy, power, and range.
 
 ### Specific Skills & Knowledges
 
+Characters cannot use advanced skills without proper training or experience.
+
 Advanced skills represent a character's proficiency in a specific field of knowledge or expertise that goes beyond the general abilities represented by basic skills.
 
-* Academics – This skill represents a character's proficiency in academic fields of study, such as mathematics, science, history, or literature. 
+* Academics – This skill represents proficiency in academic fields of study, such as mathematics, science, history, or literature. 
 
 * Education – This skill represents a character's exposure to basic scholarship and teaching, the ability to read and write, as well as basic math and algebra. 
 
-* Law – This skill represents a character's proficiency in legal matters, such as laws, regulations, and court procedures. 
+* Law – This skill represents proficiency in legal matters, such as laws, regulations, and court procedures. 
 
-* Politics – This skill represents a character's proficiency in political matters, such as government, diplomacy, and public relations. 
+* Politics – This skill represents proficiency in political matters, such as government, diplomacy, and public relations. 
 
-* Religion – This skill represents a character's proficiency in religious matters, such as theology, doctrine, and rituals. 
+* Religion – This skill represents proficiency in religious matters, such as theology, doctrine, and rituals. 
 
-* Stewardship – This skill represents a character's proficiency in managing resources and assets, such as land, goods, and money. 
+* Stewardship – This skill represents proficiency in managing resources and assets, such as land, goods, and money. 
+
+## Talents
+
+*TODO*
 
 ## Creating a Character
 
@@ -278,3 +274,6 @@ Advanced skills represent a character's proficiency in a specific field of knowl
 ## Experience and Advancement
 
 *TODO*
+
+\pagebreak
+

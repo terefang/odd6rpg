@@ -38,7 +38,7 @@ There are generally a few different levels of difficulty used:
 | Heroic      | 10    | 5     | 25    |  20   |  15   |   13  |
 | Epic        | 12    | 6     | 30    |  24   |  18   |   15  |
 
-## Advantage/Disadvantage Rolls.
+## Advantage/Disadvantage Rolls
 
 When a dice pool is rolled at advantage or disadvantage the following steps are taken:
 
@@ -48,8 +48,11 @@ When a dice pool is rolled at advantage or disadvantage the following steps are 
 
 If multiple levels of advantage or disadvantage apply, they will cancel each other out until only one advantage, disadvantage, or none remains.
 
-> For example, if a character has advantage and disadvantage on a roll at the same time. 
-> The final roll will be made without any level of advantage or disadvantage.
+## Expert Skill Rolls
+
+Expert skills have a special rule called "exploding dice" which allows a player to roll again and add it to the previous roll if they roll the maximum value on the die. This can be repeated as long as maximum value is rolled.
+
+When using expert skills, if a roll is made at Disadvantage, the dice still follow the exploding rule and any dice that roll the maximum value must be rerolled and added to the total, but it does not change the need to roll again as per normal Disadvantage.
 
 ## Target Number and Penalty Dice
 
@@ -135,3 +138,6 @@ to quickly reach a specific location.
 |  Run              | ×3    | Difficult | Hard |
 |  Sprint           | ×4    | Hard      | Heroic |
 |  Dash             | ×5    | Heroic    | Epic |
+
+\pagebreak
+
