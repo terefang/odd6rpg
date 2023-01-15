@@ -62,9 +62,7 @@ When calculating Passive Attributes always round up.
 
 ### Secondary Attributes
 
-Secondary attributes are additional attributes that are used to represent a character's active physical or 
-mechanical abilities. These attributes may not be as central to a character's concept or role, but still are 
-important for gameplay and determining success in certain actions.
+Secondary attributes are additional attributes that are used to represent a character's active physical or mechanical abilities. These attributes may not be as central to a character's concept or role, but still are important for gameplay and determining success in certain actions.
 
 * Size (SIZ) – Represents a character's physical size, which can affect things like their reach in combat and their ability to fit into small spaces.
 
@@ -162,10 +160,6 @@ This occupation represents someone who has been trained in combat, weapons, and 
 ### Savant
 
 This occupation represents someone who has excelled in a specific field of study or knowledge. They have specialized skills in mathematics, science, art, or history. They also have access to specialized libraries or resources, and be able to provide valuable information or insights.
-
-### Merchant
-
-This occupation represents someone who is involved in trade and commerce. They have specialized skills in negotiation, accounting, or appraisal. They also have access to trade routes, business connections and financial resources.
 
 ### Criminal
 

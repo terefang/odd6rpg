@@ -1,5 +1,9 @@
 # Combat
 
+## Rounds
+
+A round is a unit of time, around 6 seconds, in which all participants in a battle take their turn. The order of turns is determined by the initiative roll made at the start of combat, and the combat continues to the next round until one side is victorious or retreats.
+
 ## Initiative 
 
 Initiative is determined by rolling a d6 for each participant in combat, and adding any relevant bonuses or penalties. The participant with the highest roll goes first, followed by the participant with the next highest roll and so on.
