@@ -6,7 +6,7 @@ A round is a unit of time, around 6 seconds, in which all participants in a batt
 
 ## Initiative 
 
-Initiative is determined by rolling a d6 for each participant in combat, and adding any relevant bonuses or penalties. The participant with the highest roll goes first, followed by the participant with the next highest roll and so on.
+Initiative is determined by rolling the initiative pool for each participant in combat, and adding any relevant bonuses or penalties. The participant with the highest roll goes first, followed by the participant with the next highest roll and so on.
 
 During combat, players and adversaries take turns in order of their initiative roll. Each character can take a set of actions, such as movement, attacking, or spell casting.
 
@@ -14,13 +14,13 @@ The GM is responsible for keeping track of initiative order and any ties between
 
 ## Combat Actions
 
-The specific combat actions that are possible can vary depending on the GM's discretion and the actual situation at hand, but will include the following types of combat actions:
+The specific combat actions that are possible can vary depending on the GM's discretion and the actual situation at hand.
+
+* Move – Characters can move around the area to position themselves better in combat.
 
 * Attack – Characters can make physical attacks using a weapon, such as a sword or bow. The character will roll their combat skill and add any relevant bonuses or penalties to determine the success of the attack.
 
 * Defend – Characters can take actions to defend themselves, such as using a shield or dodging, which can increase their defense against incoming attacks.
-
-* Move – Characters can move around the area to position themselves better in combat.
 
 * Cast spell – Some characters may have access to spells and can cast them to attack or help allies in combat.
 
@@ -29,6 +29,53 @@ The specific combat actions that are possible can vary depending on the GM's dis
 * Use items – Characters can use consumable items such as potions or other objects that can affect the area or characters' status.
 
 * Aiding Others – Characters can take actions to help their allies, such as healing or buffing.
+
+* Ready – Characters may delay their actions until a specific event occurs within the round.
+
+A player can choose to move and take one action, but they can also choose to do only one of those things or none at all. The order of moving and taking action is up to the player, but if they are uncertain of what to do, they can choose to take the Defend or Ready action as a default.
+
+## Movement
+
+The "Move" attribute represents a character's speed and mobility, and is used to determine how far 
+they can move in a round of combat or how quickly they can cover distance. 
+
+Each 1 point of Move represents 1 pace (or 5 feet) of non-combat movement when making a full move action.
+
+Movement variations reflects different speeds of movement, or different ways in which a character can move.
+
+* Creep – This is used for slow, stealthy movement, and is typically used for sneaking or crawling.
+
+* Combat – This is used for quick and precise movements in combat, such as dodging or closing in on an enemy.
+
+* Walk – This is the standard pace for most characters and is used for normal, non-combative movement.
+
+* Brisk – This is a faster pace than walking, but not as fast as a run. 
+It can be used for when a character needs to cover ground quickly without drawing attention to themselves.
+
+* Jog – This is a moderate-speed run, used for covering moderate distances quickly.
+
+* Run – This is used for covering long distances quickly, it can be used to outrun an enemy or 
+to quickly reach a specific location.
+
+* Sprint – This is used for short, fast bursts of movement, typically used for fleeing or chasing.
+
+* Dash – This is used for very short and sudden bursts of movement, beyond even sprinting.
+
+| Movement          | Speed | Typical Difficulty | In-Combat Difficulty |
+|:------------------|:-----:|:---------------------|:---------------------|
+|  Creep or Combat  | ×0.5  | Easy      | Moderate |
+|  Walk             | ×1    | Automatic | Easy |
+|  Brisk            | ×3/2  | Easy      | Moderate |
+|  Jog              | ×2    | Moderate  | Difficult |
+|  Run              | ×3    | Difficult | Hard |
+|  Sprint           | ×4    | Hard      | Heroic |
+|  Dash             | ×5    | Heroic    | Epic |
+
+## Melee Attack
+
+A melee attack is an attack made with a weapon that is used in close combat, typically hand-held weapons such as swords, axes, maces, spears, etc. A melee attack is made by rolling a dice pool made up of a character's relevant attribute (usually Strength or Dexterity) and skill (usually Blades, Axes, Bludgeons, etc.). The difficulty of an melee attack is usually moderate, taking into account the circumstances of the attack and the defense of the target as penalty dice.
+
+If the roll is successful, the target takes damage based on the weapon's damage rating and the attacker's success level. A natural critical success will double damage.
 
 ## Attacking at Range
 
@@ -47,6 +94,10 @@ It's worth noting that the exact correlation between range and difficulty levels
 * Long range – This is the range at which the target is at a considerable distance from the attacker, often beyond the range of most melee weapons, but within the range of long-range weapons such as bows or crossbows. At this range, the difficulty of hitting the target is typically considered very difficult.
 
 * Extreme range – This range is further away than long range and the difficulty to hit the target is considered heroic. This level of range is usually used for spells or other special abilities that can hit a target at far distances.
+
+## Defending
+
+When a character is attempting to defend against an attack, they can choose to use an active dice pool instead of relying on passive attributes such as Defense. This means that the character can use a skill roll to defend, such as using their Agility and Brawling skill to dodge an attack, or their Physique and Athletics skill to block it.
 
 ## Generic Weapons
 

@@ -66,6 +66,12 @@ To determine the final result of a roll, the following steps are taken:
 
 The success level is calculated by taking the final result of the roll and dividing it by 5, then rounding down.
 
+## Critical Success
+
+A roll of three sixes is used to indicate a critical success. When a roll results in three sixes, it usually means that the character has performed the action exceptionally well and will have a greater chance of success or gain a bonus.
+
+A critical success can grant many benefits, such as extra damage on an attack, more favorable outcome on a skill check, or bonus on the next roll. It's at the discretion of the GM to decide what exactly the critical success will grant.
+
 ## Taking the Average (ie. Defaulting)
 
 Characters have the option to "default" on a dice roll if they have enough dice in their pool to automatically meet or exceed the target number (reference "TN" vs "D" columns) without rolling.
@@ -101,43 +107,6 @@ The GM may permit more Karma to be spent in particularly challenging situations.
 | Gargantuan |  ±3     |  32ft  |  64ft  | 32klb | 256klb|       |
 | Colossal   |  ±4     |  64ft  |  128ft | 256klb| 2Mlb  |       |
 | Titanic    |  ±5     |  128ft |    –   | 2Mlb  |   –   |       |
-
-## Movement
-
-The "Move" attribute represents a character's speed and mobility, and is used to determine how far 
-they can move in a round of combat or how quickly they can cover distance. 
-
-Each 1 point of Move represents 1 pace (or 5 feet) of non-combat movement when making a full move action.
-
-Movement variations reflects different speeds of movement, or different ways in which a character can move.
-
-* Creep – This is used for slow, stealthy movement, and is typically used for sneaking or crawling.
-
-* Combat – This is used for quick and precise movements in combat, such as dodging or closing in on an enemy.
-
-* Walk – This is the standard pace for most characters and is used for normal, non-combative movement.
-
-* Brisk – This is a faster pace than walking, but not as fast as a run. 
-It can be used for when a character needs to cover ground quickly without drawing attention to themselves.
-
-* Jog – This is a moderate-speed run, used for covering moderate distances quickly.
-
-* Run – This is used for covering long distances quickly, it can be used to outrun an enemy or 
-to quickly reach a specific location.
-
-* Sprint – This is used for short, fast bursts of movement, typically used for fleeing or chasing.
-
-* Dash – This is used for very short and sudden bursts of movement, beyond even sprinting.
-
-| Movement          | Speed | Typical Difficulty | In-Combat Difficulty |
-|:------------------|:-----:|:---------------------|:---------------------|
-|  Creep or Combat  | ×0.5  | Easy      | Moderate |
-|  Walk             | ×1    | Automatic | Easy |
-|  Brisk            | ×3/2  | Easy      | Moderate |
-|  Jog              | ×2    | Moderate  | Difficult |
-|  Run              | ×3    | Difficult | Hard |
-|  Sprint           | ×4    | Hard      | Heroic |
-|  Dash             | ×5    | Heroic    | Epic |
 
 \pagebreak
 
