@@ -16,6 +16,28 @@ The GM is responsible for keeping track of initiative order and any ties between
 
 The specific combat actions that are possible can vary depending on the GM's discretion and the actual situation at hand.
 
+* Run and take no Action.
+
+* Move and take an Action – such as a Melee or Ranged, or use a Power.
+
+* Move (or not move) and take two actions – both actions have Disadvantage.
+
+* Do not Move and take an (full) Action – such as a Melee or Ranged, or use a Power.
+
+* Take a Recovery Action – by trying to catch your breath, regain Fatique, Stress or Doubt.
+
+* Use an Object – such as drinking a potion or drawing a weapon.
+
+* Disengage – can move away from opponent up to Move without triggering an opportunity attack.
+
+* Disengage and Run – succeed on an Check vs. the opponent and can Move + Run away.
+
+### Multi-Action Penalties
+
+Every action you decide to take after the first incurs a cumulative 2d penalty.
+
+## Combat Rolls
+
 * Move – Characters can move around the area to position themselves better in combat.
 
 * Attack – Characters can make physical attacks using a weapon, such as a sword or bow. The character will roll their combat skill and add any relevant bonuses or penalties to determine the success of the attack.
@@ -64,7 +86,7 @@ to quickly reach a specific location.
 | Movement          | Speed | Typical Difficulty | In-Combat Difficulty |
 |:------------------|:-----:|:---------------------|:---------------------|
 |  Creep or Combat  | ×0.5  | Easy      | Moderate |
-|  Walk             | ×1    | Automatic | Easy |
+|  Walk             | ×1    | Trivial   | Easy |
 |  Brisk            | ×3/2  | Easy      | Moderate |
 |  Jog              | ×2    | Moderate  | Difficult |
 |  Run              | ×3    | Difficult | Hard |
@@ -73,7 +95,7 @@ to quickly reach a specific location.
 
 ## Melee Attack
 
-A melee attack is an attack made with a weapon that is used in close combat, typically hand-held weapons such as swords, axes, maces, spears, etc. A melee attack is made by rolling a dice pool made up of a character's relevant attribute (usually Strength or Dexterity) and skill (usually Blades, Axes, Bludgeons, etc.). The difficulty of an melee attack is usually moderate, taking into account the circumstances of the attack and the defense of the target as penalty dice.
+A melee attack is an attack made with a weapon that is used in close combat, typically hand-held weapons such as swords, axes, maces, spears, etc. A melee attack is made by rolling a dice pool made up of a character's relevant attribute (usually Strength or Dexterity) and skill (usually Blades, Axes, Bludgeons, etc.). The difficulty of an melee attack is usually easy, taking into account the circumstances of the attack and the defense of the target as penalty.
 
 If the roll is successful, the target takes damage based on the weapon's damage rating and the attacker's success level. A natural critical success will double damage.
 
@@ -85,19 +107,38 @@ As the range to the target increases, the difficulty of hitting the target may i
 
 It's worth noting that the exact correlation between range and difficulty levels can vary depending on the GM's discretion and the specific setting. For example, In a fantasy setting with magic, a spell that allows ranged attack may have a longer range than a typical ranged weapon and the difficulty to hit a target may be different.
 
-* Point-blank range – This is the range at which the target is very close to the attacker, often within melee weapon range. At this range, the difficulty of hitting the target is typically considered easy.
+| Range             | Typical Difficulty   |
+|:------------------|:---------------------|
+|  Reach            | Trivial              |
+|  Close            | Easy                 |
+|  Medium           | Moderate             |
+|  Long             | Difficult            |
+|  Extreme          | Hard                 |
 
-* Close range – This is the range at which the target is within short range of the attacker, often within the range of short-range weapons such as short swords or hand axes. At this range, the difficulty of hitting the target is typically considered moderate.
+* Reach – This is the range at which the target is very close to the attacker, often within melee weapon range.
 
-* Medium range – This is the range at which the target is within a moderate distance from the attacker, often within the range of medium-range weapons such as long swords or bows. At this range, the difficulty of hitting the target is typically considered difficult.
+* Close – This is the range at which the target is within short range of the attacker, often within the range of short-range weapons such as short swords or hand axes.
 
-* Long range – This is the range at which the target is at a considerable distance from the attacker, often beyond the range of most melee weapons, but within the range of long-range weapons such as bows or crossbows. At this range, the difficulty of hitting the target is typically considered very difficult.
+* Medium – This is the range at which the target is within a moderate distance from the attacker, often within the range of medium-range weapons such as long swords or bows.
 
-* Extreme range – This range is further away than long range and the difficulty to hit the target is considered heroic. This level of range is usually used for spells or other special abilities that can hit a target at far distances.
+* Long – This is the range at which the target is at a considerable distance from the attacker, often beyond the range of most melee weapons, but within the range of long-range weapons such as bows or crossbows.
+
+* Extreme – This range is further away than long range and the difficulty to hit the target is considered heroic. This level of range is usually used for spells or other special abilities that can hit a target at far distances.
 
 ## Defending
 
 When a character is attempting to defend against an attack, they can choose to use an active dice pool instead of relying on passive attributes such as Defense. This means that the character can use a skill roll to defend, such as using their Agility and Brawling skill to dodge an attack, or their Physique and Athletics skill to block it.
+
+* **Base Defense (DEF = PER ÷ 2)** – Represents a character's reflexive ability to evade incoming attacks.
+*When calculating Defense always round down.*
+
+* **Dodge (AGL + DEF)** - Represents a character's ability to avoid physical attacks by quickly moving out of the way, and anticipate incoming attacks. *Based on the situation at hand, the GM can require either Athletics or Acrobatics to be used.*
+
+ * **Parry (PHY + DEF)** - Represents a character's ability to defend themselves in combat by deflecting incoming attacks with a weapon or shield using martial prowess, timing, and ability to read their opponent's movements.
+
+## Taking Damage
+
+*TBD*
 
 ## Generic Weapons
 
@@ -119,8 +160,8 @@ in brute force, such as barbarians and paladins, may prefer these weapons.
 | Category | Damage |
 |:---------|:------:|
 | Light    |   1d6  |
-| Medium   |   2d6  |
-| Heavy    |   3d6  |
+| Medium   |   2-3d6  |
+| Heavy    |   4-6d6  |
 
 ## Generic Armor
 
@@ -135,5 +176,7 @@ When it comes to fantasy armor, it is categorized by the level of protection it 
 | Category |  Armor |
 |:---------|:------:|
 | Light    |   1d6  |
-| Medium   |   2d6  |
-| Heavy    |   4d6  |
+| Medium   | 2-3d6  |
+| Heavy    | 4-6d6  |
+
+\pagebreak

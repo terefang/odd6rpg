@@ -5,7 +5,7 @@ Odd6 Lite Edition is a simple d6 dice pool based ttprg in the tradition of the 8
 This edition is liberally licensed under CC-BY-SA so that third parties may pick it up 
 and can use it as a base for their needs.
 
-Copyright 2023 — Alfred Reibenschuh aka. Terefang Verigorn, terefang@gmail.com
+Copyright 2020-2023 — Alfred Reibenschuh aka. Terefang Verigorn, terefang@gmail.com
 
 In the hopes that it is not wasteful!
 
@@ -34,6 +34,10 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+**Reference:**
+
+See https://creativecommons.org/licenses/by-sa/4.0/ for details.
 
 \pagebreak
 

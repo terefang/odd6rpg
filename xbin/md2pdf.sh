@@ -5,6 +5,7 @@ XDIR=$(cd $(dirname $0) && pwd)
 bDATE=$(date '+%Y.%m.%d')
 
 export OSFONTDIR=$XDIR/fonts:$HOME/.fonts:$HOME/.local/share/fonts:/usr/share/fonts
+export GROFF_FONT_PATH=$XDIR/fonts:/usr/share/groff/1.22.3/font
 
 FONT=lato
 
@@ -17,6 +18,7 @@ while [ ! "x" = "x$1" ]; do
         -F)
             shift
             export OSFONTDIR="$1:$OSFONTDIR"
+            export GROFF_FONT_PATH="$1:$GROFF_FONT_PATH"
             ;;
         -i)
             shift

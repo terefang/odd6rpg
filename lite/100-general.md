@@ -18,7 +18,9 @@ Difficulty levels are used to determine the degree of difficulty of a task or ac
 
 There are generally a few different levels of difficulty used:
 
-* Easy – Tasks that are easy to accomplish, with a low risk of failure, such as simple physical tasks, basic mathematical calculations, or other routine activities.
+* Trivial – Almost anyone should be able to do this most of the time.
+
+* Easy – Most characters should be able to do this most of the time, with a low risk of failure, such as simple physical tasks, basic mathematical calculations, or other routine activities.
 
 * Moderate – Tasks that require some skill or effort, but are still relatively straightforward, such as basic repair work, climbing a short wall, or simple lock-picking.
 
@@ -28,15 +30,23 @@ There are generally a few different levels of difficulty used:
 
 * Heroic – Tasks that are almost impossible to accomplish without extraordinary skill, effort, or experience, such as lifting a car, defying gravity, or performing a dangerous stunt.
 
-| Difficulty  |  D    |  DC   |  TN   |  TX   | TY    | TZ    |
+* Epic – Tasks that are nearly impossible to accomplish, without incredible luck or aid of the powers that are.
+
+| Difficulty  |  D/P  | DC/SL |  TN   |  TX   | TY    | TZ    |
 |:------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | Automatic   | 0     | 0     | 0     |  0    |  0    |   0   |
-| Easy        | 2     | 1     | 5     |  4    |  3    |   3   |
-| Moderate    | 4     | 2     | 10    |  8    |  6    |   5   |
-| Difficult   | 6     | 3     | 15    |  12   |  9    |   8   |
-| Hard        | 8     | 4     | 20    |  16   |  12   |   10  |
-| Heroic      | 10    | 5     | 25    |  20   |  15   |   13  |
-| Epic        | 12    | 6     | 30    |  24   |  18   |   15  |
+| Trivial     | 1     | 1     | 5     |  4    |  3    |   3   |
+| Easy        | 2     | 2     | 10    |  8    |  6    |   5   |
+| Moderate    | 4     | 3     | 15    |  12   |  9    |   8   |
+| Difficult   | 6     | 4     | 20    |  16   |  12   |   10  |
+| Hard        | 8     | 5     | 25    |  20   |  15   |   13  |
+| Heroic      | 10    | 6     | 30    |  24   |  18   |   15  |
+| Epic        | 12    | 7     | 35    |  28   |  21   |   18  |
+
+*   **D/P** — Dice Difficulty or average Penalty Dice to be applied.
+*   **DC/SL** — Difficulty Class or Success Level.
+*   **TN** — Main Target Number for checks.
+*   **TX,TY,TZ** — Auxilliary Target Numbers.
 
 ## Advantage/Disadvantage Rolls
 
@@ -52,7 +62,7 @@ If multiple levels of advantage or disadvantage apply, they will cancel each oth
 
 Expert skills have a special rule called "exploding dice" which allows a player to roll again and add it to the previous roll if they roll the maximum value on the die. This can be repeated as long as maximum value is rolled.
 
-When using expert skills, if a roll is made at Disadvantage, the dice still follow the exploding rule and any dice that roll the maximum value must be rerolled and added to the total, but it does not change the need to roll again as per normal Disadvantage.
+When using expert skills, if a roll is made at Disadvantage, the dice still follow the exploding rule, but the initial 6 is discarded.
 
 ## Target Number and Penalty Dice
 
@@ -64,7 +74,7 @@ To determine the final result of a roll, the following steps are taken:
 
 ## Success Level
 
-The success level is calculated by taking the final result of the roll and dividing it by 5, then rounding down.
+The success level is calculated by comparing the final result of the roll against the appropriate column of the difficulty table.
 
 ## Critical Success
 
