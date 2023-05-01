@@ -48,21 +48,9 @@ There are generally a few different levels of difficulty used:
 *   **TN** — Main Target Number for checks.
 *   **TX,TY,TZ** — Auxilliary Target Numbers.
 
-## Advantage/Disadvantage Rolls
-
-When a dice pool is rolled at advantage or disadvantage the following steps are taken:
-
-* If the roll is at advantage, any dice that show a result of 1 will be rolled again and ignored, then add the second roll.
-
-* If the roll is at disadvantage, any dice that show a result of 6 will be rolled again and ignored, then add the second roll.
-
-If multiple levels of advantage or disadvantage apply, they will cancel each other out until only one advantage, disadvantage, or none remains.
-
 ## Expert Skill Rolls
 
 Expert skills have a special rule called "exploding dice" which allows a player to roll again and add it to the previous roll if they roll the maximum value on the die. This can be repeated as long as maximum value is rolled.
-
-When using expert skills, if a roll is made at Disadvantage, the dice still follow the exploding rule, but the initial 6 is discarded.
 
 ## Target Number and Penalty Dice
 
@@ -104,19 +92,19 @@ The GM may permit more Karma to be spent in particularly challenging situations.
 
 ## Sizes
 
-| Size       |Modifier |Size Min|Size Max|Wgt Min|Wgt Max| Comment      |
-|-----------:|:-------:|:------:|:------:|:-----:|:-----:|:--------------------------|
-| Minuscle   |  ±5     |    –   |   3in  |   –   |  4dr  |       |
-| Fine       |  ±4     |   3in  |   6in  | 4dr   |  2oz  |       |
-| Diminutive |  ±3     |   6in  |   1ft  | 2oz   |  1lb  |       |
-| Tiny       |  ±2     |   1ft  |   2ft  | 1lb   |  8lb  |       |
-| Small      |  ±1     |   2ft  |   4ft  |  8lb  | 64lb  |       |
-| Medium     |  ±0     |   4ft  |   8ft  | 64lb  | 512lb | standard size for humans. |
-| Large      |  ±1     |   8ft  |  16ft  | 512lb | 4klb  |       |
-| Huge       |  ±2     |  16ft  |  32ft  | 4klb  | 32klb |       |
-| Gargantuan |  ±3     |  32ft  |  64ft  | 32klb | 256klb|       |
-| Colossal   |  ±4     |  64ft  |  128ft | 256klb| 2Mlb  |       |
-| Titanic    |  ±5     |  128ft |    –   | 2Mlb  |   –   |       |
+| Size       |Modifier | Health |Size Min|Size Max|Wgt Min|Wgt Max|
+|-----------:|:-------:|:------:|:------:|:------:|:-----:|:-----:|
+| Minuscle   |  ±5     |    1   |    –   |   3in  |   –   |  4dr  |
+| Fine       |  ±4     |    2   |   3in  |   6in  | 4dr   |  2oz  |
+| Diminutive |  ±3     |    4   |   6in  |   1ft  | 2oz   |  1lb  |
+| Tiny       |  ±2     |    6   |   1ft  |   2ft  | 1lb   |  8lb  |
+| Small      |  ±1     |    8   |   2ft  |   4ft  |  8lb  | 64lb  |
+| Medium     |  ±0     |   10   |   4ft  |   8ft  | 64lb  | 512lb |
+| Large      |  ±1     |   12   |   8ft  |  16ft  | 512lb | 4klb  |
+| Huge       |  ±2     |   14   |  16ft  |  32ft  | 4klb  | 32klb |
+| Gargantuan |  ±3     |   16   |  32ft  |  64ft  | 32klb | 256klb|
+| Colossal   |  ±4     |   18   |  64ft  |  128ft | 256klb| 2Mlb  |
+| Titanic    |  ±5     |   20   |  128ft |    –   | 2Mlb  |   –   |
 
 \pagebreak
 

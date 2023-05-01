@@ -194,24 +194,35 @@ Advanced skills represent a character's proficiency in a specific field of knowl
 
 ### Perks
 
-* Language /Type/ – This represents proficiency in speaking and understanding the particular language.
-    *   Basic (1): At this level, learners have a basic understanding of the language and can use simple phrases and expressions in everyday situations. They can introduce themselves and ask and answer basic questions about personal information, such as where they live, their hobbies, and their family.
-    *   Elementary (2): Learners at this level can communicate in simple sentences and handle basic tasks, such as ordering food at a restaurant or asking for directions. They can describe their immediate environment, such as their home, school, or workplace.
-    *   Intermediate (3): At this level, learners can participate in conversations on a wide range of topics and express opinions and preferences. They can understand the main points of written and spoken texts, such as news articles and conversations, and write simple and coherent texts on familiar topics.
-    *   Advanced (4): At this level, learners can understand complex subjects on a wide range of topics and express themselves fluently and spontaneously in social, academic, and professional contexts. They can use language effectively for a variety of purposes, such as presenting and defending opinions, and interpreting and summarizing information.
-    *   Proficient (5): Learners at this level have a mastery of the language and can understand virtually everything they hear or read. They can express themselves fluently and accurately, even in complex situations, and use language effectively for academic, professional, and social purposes.
+#### Language /Type/
 
-* Literacy /Type/ – This represents proficiency in reading and writing the particular alphabet/symbology.
-    *   Simple (1): Phonetic alphabets - These writing systems use a small set of letters to represent sounds. Each letter usually corresponds to a single sound.
-    *   Less Simple (2): These writing systems use a small set of symbols to represent consonants. Vowels are typically not represented or are represented with diacritical marks.
-    *   Moderate (3): These writing systems use symbols to represent syllables instead of individual sounds. Each symbol represents a syllable, which can consist of one or more sounds.
-    *   Complex/Logographic (4): These alphabets use symbols to represent words or ideas, rather than individual letters. They may be complex and difficult to learn, as each symbol may have multiple meanings and contexts in which it is used.
-    *   Ideographic (5): These writing systems use symbols to represent ideas or concepts directly, rather than using symbols to represent sounds or words. Some are used to represent concepts in special education (magic).
+This represents proficiency in speaking and understanding the particular language.
 
-* Magical Aptitude /Type/ – A characters ability to perform magical acts or spells, considered a combination of innate talent and learned skill.
-    *   Sorcery (3): Magic that is performed through the use of spells, incantations, and other rituals. Practitioners having innate magical abilities and may draw power from mystical sources, such as spirits or magical artifacts; sometimes depicted as being more sinister or morally ambiguous than other types.
-    *   Wizardry (4): A more academic and intellectual approach to magic, having studied magic extensively and may use knowledge of magical theory and practice to perform spells and other magical acts, often depicted as being more benevolent and virtuous.
-    *   Theurgy (3): The act of using one's faith or devotion to a deity or higher power to perform magical acts. Divine beings (ie. deities) bestow magical powers or blessings upon their followers, and that these powers are harnessed through prayer, meditation, or other forms of spiritual practice.
+*   Basic (1): At this level, learners have a basic understanding of the language and can use simple phrases and expressions in everyday situations. They can introduce themselves and ask and answer basic questions about personal information, such as where they live, their hobbies, and their family.
+*   Elementary (2): Learners at this level can communicate in simple sentences and handle basic tasks, such as ordering food at a restaurant or asking for directions. They can describe their immediate environment, such as their home, school, or workplace.
+*   Intermediate (3): At this level, learners can participate in conversations on a wide range of topics and express opinions and preferences. They can understand the main points of written and spoken texts, such as news articles and conversations, and write simple and coherent texts on familiar topics.
+*   Advanced (4): At this level, learners can understand complex subjects on a wide range of topics and express themselves fluently and spontaneously in social, academic, and professional contexts. They can use language effectively for a variety of purposes, such as presenting and defending opinions, and interpreting and summarizing information.
+*   Proficient (5): Learners at this level have a mastery of the language and can understand virtually everything they hear or read. They can express themselves fluently and accurately, even in complex situations, and use language effectively for academic, professional, and social purposes.
+
+#### Literacy /Type/
+
+This represents proficiency in reading and writing the particular alphabet/symbology.
+
+*   Simple (1): Phonetic alphabets - These writing systems use a small set of letters to represent sounds. Each letter usually corresponds to a single sound.
+*   Less Simple (2): These writing systems use a small set of symbols to represent consonants. Vowels are typically not represented or are represented with diacritical marks.
+*   Moderate (3): These writing systems use symbols to represent syllables instead of individual sounds. Each symbol represents a syllable, which can consist of one or more sounds.
+*   Complex/Logographic (4): These alphabets use symbols to represent words or ideas, rather than individual letters. They may be complex and difficult to learn, as each symbol may have multiple meanings and contexts in which it is used.
+*   Ideographic (5): These writing systems use symbols to represent ideas or concepts directly, rather than using symbols to represent sounds or words. Some are used to represent concepts in special education (magic).
+
+*You can take Literacy at a lower level representing a lower or flawed understanding of the particular alphabet/symbology (penalties apply).*
+
+#### Magical Aptitude /Type/
+
+A characters ability to perform magical acts or spells, considered a combination of innate talent and learned skill.
+
+*   Sorcery (3): Magic that is performed through the use of spells, incantations, and other rituals. Practitioners having innate magical abilities and may draw power from mystical sources, such as spirits or magical artifacts; sometimes depicted as being more sinister or morally ambiguous than other types.
+*   Wizardry (4): A more academic and intellectual approach to magic, having studied magic extensively and may use knowledge of magical theory and practice to perform spells and other magical acts, often depicted as being more benevolent and virtuous.
+*   Theurgy (3): The act of using one's faith or devotion to a deity or higher power to perform magical acts. Divine beings (ie. deities) bestow magical powers or blessings upon their followers, and that these powers are harnessed through prayer, meditation, or other forms of spiritual practice.
 
 ### Quirks
 

@@ -16,21 +16,32 @@ The GM is responsible for keeping track of initiative order and any ties between
 
 The specific combat actions that are possible can vary depending on the GM's discretion and the actual situation at hand.
 
-* Run and take no Action.
+*   Run and take no Action.
 
-* Move and take an Action – such as a Melee or Ranged, or use a Power.
+*   Move and take an Action – such as a Melee or Ranged, or use a Power.
 
-* Move (or not move) and take two actions – both actions have Disadvantage.
+*   Move (or not move) and take two actions – both actions have Disadvantage.
 
-* Do not Move and take an (full) Action – such as a Melee or Ranged, or use a Power.
+*   Do not Move and take an (full) Action – such as a Melee or Ranged, or use a Power.
 
-* Take a Recovery Action – by trying to catch your breath, regain Fatique, Stress or Doubt.
+*   Take a Recovery Action – by trying to catch your breath, regain Fatique, Stress or Doubt.
 
-* Use an Object – such as drinking a potion or drawing a weapon.
+*   Use an Object – such as drinking a potion or drawing a weapon.
 
-* Disengage – can move away from opponent up to Move without triggering an opportunity attack.
+*   Disengage – can move away from opponent up to Move without triggering an opportunity attack.
 
-* Disengage and Run – succeed on an Check vs. the opponent and can Move + Run away.
+*   Disengage and Run – succeed on an Check vs. the opponent and can Move + Run away.
+
+**Specific Actions**
+
+*   Aim – +1d bonus for each turn spent aiming (up to +4).
+    No Active Defense while aiming.
+*   Charge – Move and attack with +2d bonus while losing Defense.
+*   Defensive Attack –   take a -2d on attack for a +2d defense bonus.
+*   Total Attack –   take a +2d on attack while losing Defense.
+*   Full Defense – Add your full combat skill to Base Defense.
+*   Grapple/Hold – *tbd*
+*   Stand Up – Stand up from a prone position. May defend but not attack.
 
 ### Multi-Action Penalties
 
@@ -61,7 +72,22 @@ A player can choose to move and take one action, but they can also choose to do 
 The "Move" attribute represents a character's speed and mobility, and is used to determine how far 
 they can move in a round of combat or how quickly they can cover distance. 
 
-Each 1 point of Move represents 1 pace (or 5 feet) of non-combat movement when making a full move action.
+Each 1 point of Move represents 1 pace (or 10 feet) of non-combat movement when making a full move action.
+
+| MOV |  Base  |  Swim  | Climb  | Long Jump | High Jump | Walk(1) | Run(2)  |
+|:---:|:------:|:------:|:------:|:---------:|:---------:|:-------:|:-------:|
+|  1  |  10    |    5   |    5   |     2     |     1     |   1     |   2     |
+|  2  |  20    |   10   |   10   |     5     |     2     |   2     |   4     |
+|  3  |  30    |   15   |   15   |     7     |     3     |   3     |   6     |
+|  4  |  40    |   20   |   20   |    10     |     4     |   4     |   8     |
+|  5  |  50    |   25   |   25   |    12     |     5     |   5     |  10     |
+|  6  |  60    |   30   |   30   |    15     |     6     |   6     |  12     |
+|  7  |  70    |   35   |   35   |    17     |     7     |   7     |  14     |
+|  8  |  80    |   40   |   40   |    20     |     8     |   8     |  16     |
+|  9  |  90    |   45   |   45   |    22     |     9     |   9     |  18     |
+
+*   /1/ – in km/hour, non-combat, at Trivial difficulty
+*   /2/ – in km/hour, non-combat, at Easy difficulty
 
 Movement variations reflects different speeds of movement, or different ways in which a character can move.
 
@@ -112,8 +138,9 @@ It's worth noting that the exact correlation between range and difficulty levels
 |  Reach            | Trivial              |
 |  Close            | Easy                 |
 |  Medium           | Moderate             |
-|  Long             | Difficult            |
-|  Extreme          | Hard                 |
+|  Far              | Difficult            |
+|  Long             | Hard                 |
+|  Extreme          | Heroic               |
 
 * Reach – This is the range at which the target is very close to the attacker, often within melee weapon range.
 
@@ -138,12 +165,22 @@ When a character is attempting to defend against an attack, they can choose to u
 
 ## Taking Damage
 
+Damage is composed of the following factors:
+
+*   the weapons/attacks damage code.
+*   success levels from the attack roll, if any.
+*   special effects or damage types, if any.
+
+Assemble all the factors from above in a dice pool
 *TBD*
 
 ## Generic Weapons
 
 Fantasy weapons are categorized based on their weight and the level of skill required to use them effectively. 
 Here is a general description of fantasy weapons that would fall into the categories of light, medium, and heavy:
+
+
+### Hand to Hand Combat Weapons
 
 * Light weapons – These are typically small and easy to wield, such as daggers, short swords, and hand axes. 
 They are typically fast, but don't deal as much damage as heavier weapons. Characters who are agile and fast, 
@@ -159,9 +196,11 @@ in brute force, such as barbarians and paladins, may prefer these weapons.
 
 | Category | Damage |
 |:---------|:------:|
-| Light    |   1d6  |
-| Medium   |   2-3d6  |
-| Heavy    |   4-6d6  |
+| Light    |   1d   |
+| Medium   |   2-3d  |
+| Heavy    |   3-4d  |
+
+### Ranged combat Wepaons
 
 ## Generic Armor
 
