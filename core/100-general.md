@@ -76,19 +76,33 @@ Characters have the option to "default" on a dice roll if they have enough dice 
 
 To be able to default on a roll, a character's dice pool must have at least the same number of dice as the TN and the penalty dice must be subtracted from the pool before defaulting can be considered. If a roll is made at disadvantage, defaulting is not possible, the character needs to roll the dice.
 
-## Improving Rolls
+## Advantage and Disadvantage
 
-Characters have access to special points called Karma and Resources in addition to their attribute and skill scores. These points can be spent to gain an advantage or achieve success in particularly challenging or heroic situations.
+Certain abilities or situations may grant you an advantage or disadvantage on a roll. Multiple levels of advantage and disadvantage cancel each other out until only advantage, disadvantage or none remain. When this occurs, note any "1" or "6" result on a dice. 
+If you have advantage, your success level increases for every such die. 
+Conversely, if you have disadvantage, your success level decreases for every such die.
+This needs to be checked even for failed/successful rolls as this increase/decrease can make a roll to succeed/fail instead.
 
-### Resources
+>   **Example 1 —**
+>   Nobody is attempting an action with a dice pool of 6, and the target number (TN) is 22. 
+>   Nobody has the Advantage in this situation.
+>   Nobody rolls the dice and gets results of 1, 2, 3, 4, 5, and 6, totaling 21. 
+>   Normally, this would be considered a failed roll.
+>   However, due to Nobody's Advantage, they gains two additional success levels,
+>   one extra success level for rolling both a "1" and a "6."
+>   
+>   *The final outcome is an Epic Result, actually a successful roll with one Success Level.*
 
-Resources can be spent to gain an advantage in task resolution by adding an extra die to the roll. These resources can also be spent after a roll has been made to attempt to improve the result.
+>   **Example 2 —**
+>   Somebody is attempting an action with a dice pool of 6, and the target number (TN) is 15. 
+>   Somebody has the Disadvantage in this situation.
+>   Somebody rolls the dice and gets results of 1, 2, 3, 4, 5, and 6, totaling 21. 
+>   Normally, this would be considered a successful roll with one success level.
+>   However, due to Somebody's Disadvantage, he looses two success levels,
+>   one level for rolling both a "1" and a "6."
+>   
+>   *The final outcome is an Easy Result, actually a failed roll with one Failure Level.*
 
-### Karma Points
-
-Karma can be spent by a character to focus their efforts on a specific task. This can only be done before any dice rolls are made and doubles the number of dice the character would normally roll for that round and action, allowing the character to perform that action to the best of their ability. 
-
-The GM may permit more Karma to be spent in particularly challenging situations.
 
 ## Sizes
 

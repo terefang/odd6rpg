@@ -1,5 +1,0 @@
-# Magic
-
-*TBD*
-
-\pagebreak

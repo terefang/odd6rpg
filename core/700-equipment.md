@@ -26,23 +26,15 @@ Shields
 | Morning star            |   1h  |       |   3d   |                     |
 | Quarterstaff            |   1h  |       |  1d+2  | Point Blank         |
 | Rapier                  |   1h  |       |   2d   | Unwieldy            |
-| Sword, Broad            | 1/2h  |       |  2d+2  | Unwieldy            |
 | Sword, Short            |   1h  |       |  1d+2  |                     |
-| Sword, Two-Handed       |   2h  |       |  3d+1  |                     |
+| Sword, Arming           |   1h  |       |  2d    |                     |
+| Sword, Bastard          | 1/2h  |       |  2d+2  | Unwieldy            |
+| Sword, Long             | 1/2h  |       |  3d    | Unwieldy            |
+| Sword, War              |   2h  |       |  3d+2  | Unwieldy            |
+| Sword, Great            |   2h  |       |  4d    | Unwieldy            |
 | Trident                 | 1/2h  |       |  2d+2  | Unwieldy            |
 | War hammer              | 1/2h  |       |   3d   | Unwieldy            |
 
-## Oriental Style Hand Weapons
-
-| Weapon                  | Hands | Type  | DMG    | Comments            |
-|:------------------------|:-----:|:-----:|:------:|:--------------------|
-| Brass Knuckles          |   1h  |       |  1d+1  |                     |
-| Katana                  |  1/2h |       |   3d   | Unwieldy            |
-| Manrikigusari           |   1h  |       |  1d+2  |                     |
-| Nunchaku                |  1/2h |       |  1d+2  | Unwieldy            |
-| Rope, Silk cord         |   1h  |       |   +1   |                     |
-| Sai                     |  1/2h |       |  1d+1  |                     |
-| Tonfa                   |   1h  |       |  1d+2  |                     |
 
 ## Ranged Weapons
 
@@ -59,5 +51,21 @@ Shields
 | Spear, Wooden Tip       |  1d+1  |  3  |  5  |  25 |  40 |  65 |                     |
 | Throwing Dagger         |   1d   |  3  |  5  |  10 |  15 |  25 |                     |
 | Throwing Star           |   1d   |  3  |  5  |  10 |  15 |  25 |                     |
+
+\pagebreak
+
+## Oriental Style Hand Weapons
+
+| Weapon                  | Hands | Type  | DMG    | Comments            |
+|:------------------------|:-----:|:-----:|:------:|:--------------------|
+| Brass Knuckles          |   1h  |       |  1d+1  |                     |
+| Tanto                   |   1h  |       |   1d   |                     |
+| Wakizashi               |   1h  |       |   2d   |                     |
+| Katana                  |  1/2h |       |   3d   | Unwieldy            |
+| Manrikigusari           |   1h  |       |  1d+2  |                     |
+| Nunchaku                |  1/2h |       |  1d+2  | Unwieldy            |
+| Rope, Silk cord         |   1h  |       |   +1   |                     |
+| Sai                     |  1/2h |       |  1d+1  |                     |
+| Tonfa                   |   1h  |       |  1d+2  |                     |
 
 \pagebreak
