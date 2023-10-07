@@ -71,3 +71,13 @@
 *   Elementals are creatures from elemental planes, such as elemental masses and elemental-infused beings like genies.
 *   Fey are magical creatures tied to nature, dwelling in forests and the Feywild, including dryads, pixies, and satyrs.
 *   Fiends are wicked creatures from the Lower Planes, serving archdevils and demon princes, including demons, devils, and rakshasas.
+
+
+## References
+
+* Castles & Crusades — Monsters & Treasure
+* Kobold Press — Tome of Beasts(1,2,3), Creature Codex
+* Frog God Games — Tome of Horrors
+* Nord Games — Ultimate Bestiary ...
+* Onyx Path — Creature Collection
+~ BRW Games — Adventures Dark and Deep Bestiary

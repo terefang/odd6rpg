@@ -14,7 +14,19 @@ The GM is responsible for keeping track of initiative order and any ties between
 
 ## Combat Actions
 
-The specific combat actions that are possible can vary depending on the GM's discretion and the actual situation at hand.
+In combat, your character can take three distinct types of actions: attack, defense, and move actions. During each combat turn, your character can perform one action of each type without any penalties. This means your character can choose to move, attack, and defend all within the same combat turn.
+
+Your character isn't obligated to execute all three types of combat actions; it's a matter of choice. However, forgoing one type of action doesn't grant the ability to perform two actions of another type.
+
+* **Attack Action —** These actions are used to try and harm an opponent. The most common attack actions include Melee, Brawl, and Ranged attacks. Each attack action involves a different Skill roll to determine the outcome. Your character can also use the Attack action to execute specific combat maneuvers.
+
+* **Defense Action —** Defense actions are a unique type of reflexive action used to prevent damage from an attack. Your character's Defense rating reflects their ability to instinctively evade attacks and withstand damage. There's no need to actively choose a Defense action; instead, you'll make a Defense roll whenever your character is targeted by an opponent's attack action.
+
+* **Move Action —** A Move action permits your character to relocate a specific distance determined by their Move rating. Your character can perform a Move action alongside attacking and defending. There's no need for dice rolls to resolve a Move action; your character simply moves the relevant distance based on their Move rating. However, challenging terrain might reduce your character's effective Move rating.
+
+### Combat Maneuvers
+
+The specific combat maneuvers that are possible can vary depending on the GM's discretion and the actual situation at hand.
 
 *   Run and take no Action.
 
@@ -32,40 +44,135 @@ The specific combat actions that are possible can vary depending on the GM's dis
 
 *   Disengage and Run – succeed on an Check vs. the opponent and can Move + Run away.
 
-**Specific Actions**
+#### Aim
 
-*   Aim – +1d bonus for each turn spent aiming (up to +4).
-    No Active Defense while aiming.
-*   Charge – Move and attack with +2d bonus while losing Defense.
-*   Defensive Attack –   take a -2d on attack for a +2d defense bonus.
-*   Total Attack –   take a +2d on attack while losing Defense.
-*   Full Defense – Add your full combat skill to Base Defense.
-*   Grapple/Hold – *tbd*
-*   Stand Up – Stand up from a prone position. May defend but not attack.
+Instead of opting for a regular Attack action, your character can engage in various combat maneuvers. These maneuvers might offer advantages or disadvantages when attacking opponents or enable your character to accomplish other valuable tasks.
+
+Aiming enhances your character's accuracy and damage when using a ranged weapon. It's worth noting that magical spells cannot be aimed, although certain magic items may allow it.
+
+For every full turn your character dedicates to aiming at a target, you gain a +1d on your attack roll, with a maximum limit of +4d aim bonus.
+
+*Special Note: While aiming, your character's complete focus is on the target, making her unable to move or actively defend herself. If attacked, you may only roll your character's Passive Defense rating (plus any relevant defense modifiers) for her Defense roll. Your character can continue aiming as long as she avoids taking any damage. Alternatively, she can choose to cease aiming (and forfeit the aim bonus) to defend herself conventionally.*
+
+#### Block
+
+Instead of launching an offensive attack, your character endeavors to defend against all Brawl attacks aimed at her for the turn. If she becomes the target of an attack, initiate an opposed Brawl roll against her adversary, incorporating any relevant Defense modifiers. If you roll higher than your opponent, the attack is effectively blocked, causing no harm. However, if your opponent achieves a better result, your character sustains damage based on it.
+
+Typically, only Brawl attacks can be blocked in this manner. If your character intends to block a Melee attack, she incurs a -2d penalty on the attempt.
+
+*Special Note: Because your character actively strives to block Brawl attacks, her standard Defense rating doesn't apply in this context. Nevertheless, she retains her regular Defense rating when confronted with other types of attacks.*
+
+#### Called Shot
+
+There are times when your character aims for a specific target, like an object held by an opponent or a vulnerable spot, or when she wants to avoid hitting something, such as a friend grappling with her adversary. In either case, a called shot is required, and the attack roll incurs penalty dice equal to the opponent's Defense rating or the Size rating of the targeted object.
+
+* **Vital Area —** Your character can attempt a called shot to strike a vital area on an opponent. This imposes a penalty on her attack roll equal to her opponent's complete Defense rating (including armor and other Defense modifiers). Success Levels automatically deal damage to the target.
+
+* **Held Object —** If your character intends to target a held object, she suffers a penalty equal to the Size rating of the object. If the person holding the item is trying to protect it from being struck, use either the base Defense rating of the person holding it or the object's Defense rating, whichever is higher. Success Levels inflict damage as usual.
+
+* **Shooting into Combat —** When your character tries to shoot past a friend to hit an opponent, she makes a called shot with a penalty equal to the level of cover her target has. Failing this roll could have dire consequences for your character's friend.
+
+* **Specific Location —** If your character aims for a particular area on an opponent, consult the following for attack modifiers:
+Torso: -1d, Limb: -2d, Hand: -4d, Head: -4d, Eye: -8d.
+The outcome of hitting a specific location is subject to the GM's interpretation, based on the circumstances. It could range from forcing someone to drop a weapon to blinding the opponent.
+
+#### Charge
+
+When your character charges an opponent, they initiate a full-on assault using either a Brawl or Melee attack. Charging grants a +2d bonus to the attack. Your character may move up to their regular movement distance before making the attack but cannot move again afterward.
+
+**Shove —** Instead of a standard charge attack, your character can attempt to shove their opponent rather than inflict damage. In this case, they make a touch attack against their opponent. If successful, no damage is dealt. Instead, compare the opponent's Strength rating with the amount of damage your character would have caused. If the damage exceeds the opponent's Strength rating, your character pushes them back 5 ft. for each success level beyond.
+
+If the damage is less than or equal to the opponent's Strength rating, your character's shove attempt fails, and they end their movement standing directly in front of the opponent.
+
+*Special: During a charge attack, your character cannot actively defend themselves. If they are attacked, you only roll your character's Passive Defense rating (plus any relevant defense modifiers) for their Defense roll.*
+
+#### Defensive Attack
+
+In certain situations, your character can opt for a cautious attack, prioritizing defense over offense. This decision imposes a -3d penalty on his attack roll but grants a +2d bonus on his Defense roll for the rest of the round.
+
+#### Disarm
+
+Your character can try to disarm their opponent in two ways: by using a melee weapon to knock the weapon from their hand or by attempting to steal it using a hand-to-hand attack.
+
+To disarm, initiate an opposed Melee (or Brawl) roll against your opponent, but note that you suffer a -2d penalty for specifically targeting their weapon. Additionally, if your opponent is holding their weapon with both hands, they receive a +2d bonus. If your roll result is lower or equal to the oen rolled by your opponent, your character fails to disarm them. However, if your roll accumulates more success levels than your opponent's, your character successfully knocks the weapon from their grasp, sending it flying 5 ft. away per level achieved. 
+
+Alternatively, if your character attempted to steal the weapon with a Brawl attack, they now possess the weapon.
+
+#### Dodge
+
+Your character can opt for a defensive maneuver instead of launching an offensive attack. In this case, she strives to dodge all incoming ranged attacks directed at her during the turn. If she becomes the target of such an attack, an opposed Athletics roll versus her opponent's ranged attack roll is made, taking into account any relevant Defense modifiers. If your character's roll accumulates more success levels than her opponent's, she skillfully dodges the shot, avoiding any damage. Conversely, if the opponent's roll results in more success levels, your character takes damage equal to the number of extra levels scored.
+
+It's important to note that, since your character is actively trying to evade ranged attacks, her normal Defense rating does not apply in this context. However, her regular Defense rating remains in effect when dealing with other types of attacks. 
+
+*Additionally, if your character possesses the Acrobatics Skill, she can employ it instead of Athletics when attempting to dodge ranged attacks.*
+
+#### Grapple
+
+In an attempt to immobilize an opponent without causing harm, your character engages in a grapple. This involves making a Brawl touch attack (refer to Touch Attack, below) with a penalty equal to the Size rating of the opponent. If the touch attack succeeds, it inflicts no damage. Instead, the opponent's Strength rating is compared to the amount of damage your character would have dealt. If the damage is less than or equal to the opponent's Strength rating, your character's grapple attempt fails. However, if your roll results in more damage than the opponent's Strength rating, your character successfully seizes control. On the opponent's next turn, the grappled character is unable to initiate attacks and must triumph in an opposed Strength roll to break free from the grapple. 
+
+*In the event that your character's damage exceeds twice the opponent's Strength rating, she pins her adversary, causing the opponent to rely solely on her Passive Defense rating for Defense.*
+
+#### Parry
+
+In lieu of launching an attack, your character endeavors to parry all incoming Melee attacks against him. To execute this maneuver, he must wield a shield or possess an appropriate weapon. If an attack targets him, an opposed Melee roll is made against his opponent, incorporating any shield or weapon bonuses, along with relevant Defense modifiers. Should your character achieve more success levels than the attacker, the blow is deflected, causing no damage. Conversely, if the attacker garners more levels, your character sustains damage equivalent to the surplus by the opponent.
+
+Typically, parrying is only applicable to Melee attacks. However, if your character seeks to parry a Brawl attack, he will retaliate with damage if your Defense roll accumulates more success levels than the attacker.
+
+*Special Note: As your character actively engages in parrying Melee attacks, his normal Defense rating does not apply. Nevertheless, he retains his typical Defense rating when confronted with other varieties of attacks.*
+
+#### Ready Weapon
+
+Your character swiftly draws a weapon, preparing it for combat. Typically, this process only necessitates a single action, although certain weapons may require more time.
+
+#### Run
+
+In lieu of initiating an attack, your character doubles her Move rating to ascertain the distance she can cover during the combat turn. She retains her ability to defend herself as usual but cannot engage in any other actions while in the midst of running.
+
+#### Sprint
+
+Your character can opt to sprint instead of launching an attack. By doing so, they multiply their Move rating by four to determine the distance they can cover during the combat turn. They can maintain this accelerated pace for a number of turns equal to their Body rating. After this duration, they have the choice to exert themselves further, incurring fatique, to continue sprinting for an additional turn. If they desire, they can keep sprinting until they succumb to exhaustion. Once your character ceases sprinting, they must rest for a number of turns equivalent to the turns spent sprinting before they can sprint again. While sprinting, your character forfeits their Active Defense, as they cannot fully concentrate on evading attacks while running at full speed.
+
+#### Stand Up
+
+Your character can quickly rise from a prone position as a reflexive action, but doing so requires them to forego an attack action. Following this action, your character can move and defend normally.
+
+#### Throw
+
+Your character endeavors to throw their opponent to the ground using a Brawl attack. Execute a Brawl touch attack against the opponent (refer to Touch Attack below). Your character suffers a penalty equal to the Size rating of their opponent. If the attempt succeeds, your character inflicts no damage. Instead, compare the opponent’s Strength rating to the damage your character would have inflicted. If the damage is less than or equal to the opponent’s Strength rating, your character's attempt to throw them fails. If the damage exceeds their Strength rating, your character throws them a distance of 5 ft. for each success lrvrl beyond their Strength rating. If this causes the opponent to collide with an obstacle and they can't continue moving, they suffer one point of  damage for every 5 ft. they still needed to travel. Additional damage may occur depending on the location of their landing.
+
+#### Total Attack
+
+When your character's sole focus is taking down an opponent, she can go on an all-out offensive, disregarding her own safety to gain a +2 bonus to her attack roll. Instead of a standard total attack, your character can opt for one of the following techniques, making two attacks in the same combat turn:
+
+* **Dual Wield —** Your character attacks with a weapon in each hand, allowing for two Melee attacks, two Ranged attacks, or one of each. However, attacking with two weapons is challenging, resulting in a -4d penalty to the attack with the weapon in her primary hand and a -6d penalty to the attack with the weapon in her off-hand.
+
+* **Flurry —** Your character strikes twice in rapid succession with a Melee weapon or bare hands, foregoing the normal total attack bonus but suffering a -4d penalty to both attacks.
+
+* **Rapid Fire —** Your character unleashes two quick shots with a ranged weapon capable of multiple attacks in the same round. This choice sacrifices the regular total attack bonus and imposes a -4d penalty on both attacks.
+
+*During a total attack, your character cannot actively defend herself. If she becomes the target of an attack, you can only roll your character’s Passive Defense rating (along with any relevant modifiers) for her Defense roll.*
+
+#### Total Defense
+
+Your character can dedicate her actions entirely to defense, expertly blocking blows, parrying strikes, and dodging ranged attacks simultaneously. By forgoing his attack action, your character gains a substantial +4d bonus to his Defense rating until his next turn.
+
+#### Trip
+
+Your character tries to trip her opponent and bring him down. Execute a Brawl touch attack against the opponent (refer to Touch Attack below). If her opponent has four or more legs, your character faces a -2d penalty to her trip attack. If successful, your character inflicts no damage. Instead, compare the opponent’s Strength rating to the damage your character would have inflicted. If the damage exceeds his Strength rating, your character successfully knocks him down. If the damage is less than or equal to the opponent’s Strength rating, your character's attempt to trip her opponent fails.
+
+#### Use Item
+
+Rather than launching an attack, your character can utilize an item or operate a simple machine. This action encompasses tasks like pulling levers or performing similar actions that do not require a Skill roll to complete.
+
+#### Use Skill
+
+Instead of engaging in combat, your character employs one of his Skills, such as Diplomacy, Medicine, or Magic.
 
 ### Multi-Action Penalties
 
-Every action you decide to take after the first incurs a cumulative 2d penalty.
+Every action you decide to take after the usual incurs an additional cumulative -2d penalty.
 
-## Combat Rolls
 
-* Move – Characters can move around the area to position themselves better in combat.
-
-* Attack – Characters can make physical attacks using a weapon, such as a sword or bow. The character will roll their combat skill and add any relevant bonuses or penalties to determine the success of the attack.
-
-* Defend – Characters can take actions to defend themselves, such as using a shield or dodging, which can increase their defense against incoming attacks.
-
-* Cast spell – Some characters may have access to spells and can cast them to attack or help allies in combat.
-
-* Use special abilities – Some characters may have special abilities, such as spells or abilities that can be used in combat to gain an advantage.
-
-* Use items – Characters can use consumable items such as potions or other objects that can affect the area or characters' status.
-
-* Aiding Others – Characters can take actions to help their allies, such as healing or buffing.
-
-* Ready – Characters may delay their actions until a specific event occurs within the round.
-
-A player can choose to move and take one action, but they can also choose to do only one of those things or none at all. The order of moving and taking action is up to the player, but if they are uncertain of what to do, they can choose to take the Defend or Ready action as a default.
 
 ## Movement
 
@@ -152,6 +259,27 @@ It's worth noting that the exact correlation between range and difficulty levels
 
 * Extreme – This range is further away than long range and the difficulty to hit the target is considered heroic. This level of range is usually used for spells or other special abilities that can hit a target at far distances.
 
+## Touch Attacks
+
+In certain situations, the primary concern is whether an opponent makes physical contact with your character, such as when attempting to grapple or inflict harm with a torch. Grapple attacks, which are focused on immobilizing rather than causing damage to your character, do not permit the use of your character’s Passive Defense rating for the Defense roll. Similarly, when confronted by an adversary wielding a potentially dangerous weapon like a torch, you can only rely on your character’s Active Defense rating for the Defense roll.
+
+In touch attacks, factors such as your character’s size, cover, and any existing penalties still affect the Defense roll. Normally, armor does not come into play unless your character faces an attack from a hazardous weapon or when skin-to-skin contact is crucial.
+
+*Touch attacks typically do not inflict damage on their own. Instead, the potential damage is often compared to one of your character’s Attributes to determine another effect, as is the case with grapple attacks. Touch attacks that do result in damage, such as being attacked with a burning torch, cause a specified amount of damage upon success. Any extra success levels achieved in the touch attack do not increase the inflicted damage.*
+
+## Ranged Touch Attack
+
+A ranged touch attack is an action that symbolically targets a distant opponent and is resolved similarly to a standard touch attack but from a distance 
+(eg. adding range penaties).
+
+## Area of Effect Attacks
+
+Certain attacks, like explosions, have the potential to harm everything within a specific radius. Due to their widespread nature, dodging such attacks effectively is impractical. Characters caught within the radius of an area effect attack can only rely on their Passive Defense rating for their Defense roll. Creature size and any existing wound penalties do not influence the defense against area of effect attacks. However, any cover your character has or armor they are wearing will provide some level of protection.
+
+Area of effect attacks involving substances like fire, acid, or other caustic materials bypass your character’s Active Defense and Passive Defense. The only factors affecting your Defense roll are armor and cover.
+
+*Although area of effect attacks are highly potent, they only use the weapon’s damage rating for the attack roll. Your opponent's Skill rating is not a consideration, except when it involves positioning or throwing a weapon into a specific location. Typically, this doesn't require a roll on their part unless precision is crucial.*
+
 ## Defending
 
 When a character is attempting to defend against an attack, they can choose to use an active dice pool instead of relying on passive attributes such as Defense. This means that the character can use a skill roll to defend, such as using their Agility and Brawling skill to dodge an attack, or their Physique and Athletics skill to block it.
@@ -217,5 +345,33 @@ When it comes to fantasy armor, it is categorized by the level of protection it 
 | Light    |   1d6  |
 | Medium   | 2-3d6  |
 | Heavy    | 4-6d6  |
+
+\pagebreak
+
+## Critical Results
+
+| d66   |  Result                                                                             |    Healing    |
+|:-----:|:------------------------------------------------------------------------------------|:-------------:|
+| 11    |                                                                             | Easy |
+| 12–13 |	Slowed Down — Act as last next round.                                     | Easy |
+| 14–15 |	Sudden Jolt — Drop whatever you are holding.                              | Easy |
+| 16–21 |	Distracted — MOV is halved next round.                                    | Easy |
+| 22    |		                                                                      | Moderate |
+| 23–24 |	Discouraging Wound — Loose next action or suffer multi-action penalty.    | Moderate |
+| 25–26 |	Stinger — Get +2d penalty on next skill check.                            | Moderate |
+| 31–32 |	Bowled Over — Knocked prone and suffers 1 fatigue.                        | Moderate |
+| 33    |		                                                                      | Difficult |
+| 34–35 |	Hamstrung — Get +1d penalty to MOV until healed.                          | Difficult |
+| 36–41 |	Winded — Cannot actively spend fatique until healed.                      | Difficult |
+| 42–43 |	Compromised — Get +1d penalty on all skill checks until healed.           | Difficult |
+| 44    |		                                                                      | Hard |
+| 45–46 |	At the Brink — Suffer 1 fatigue for each action until healed.             | Hard |
+| 51–52 |	Crippled — Disabled limb, +2d penalty on all actions until healed.        | Hard |
+| 53–54 |	Horrific Injury — A characteristic is lowered by one until healed.        | Hard |
+| 55    |		                                                                      | Heroic |
+| 56–61 |	Bleeding Out — Suffer one Wound every round until healed.                 | Heroic |
+| 62–63 |	Dying — In a Coma, dead after `B` rounds unless healed.                   | Heroic |
+| 64–65 |	The End is Near — Will die at the end of the next round unless healed.    | Heroic |
+| 66    |	Dead — Complete, obliterated death.                                       | Epic |
 
 \pagebreak

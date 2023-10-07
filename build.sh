@@ -29,6 +29,6 @@ for x in ${XDIR}/${bDIR}/*.md; do
 
 done
 
-cd $XDIR && $XDIR/xbin/md2pdf.sh ${FROM} -o $XDIR/${bDIR}.pdf
+cd $XDIR && md2pdf.sh ${FROM} -f P -o $XDIR/${bDIR}.pdf
 
 # END.

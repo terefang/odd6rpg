@@ -299,3 +299,11 @@ Successful Summoning spells bring the intended entity, bound by the spell's powe
 *Reverse: Banishment —* Effect of returning summoned creatures to their plane of existence. Banishment has a penalty equal to the creature's ability level. A caster can attempt Banishment on unsummonable entities with a +5TN penalty on the casting roll.
 
 \pagebreak
+
+## Specific Notes
+
+### Haste
+
+Each Level of Haste allows a character to add +1d to initiative and ignore 1d of multiaction penalties.
+
+\pagebreak
